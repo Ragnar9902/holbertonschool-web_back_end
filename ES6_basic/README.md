@@ -1,49 +1,57 @@
-# ES6_basic
-# Resources
-Read or watch:
+# 0x0E. ES6 Basics
+:open_file_folder: Specializations - Web Stack programming ― Back-end  
+:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bookmark: arrow functions | block scope | block scoping | for-of loop | iterators | javascript | rest parameter | spread parameter | string templating
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Resources
+### For this project, students are expected to look at this concept:
+* [Software Linter](https://intranet.hbtn.io/concepts/354)
+  - [lint (software) - Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+  - [ESLint - Pluggable JavaScript linter](https://eslint.org/)
+  - [pycodestyle - documentation](https://pycodestyle.pycqa.org/en/latest/)
+### Read or watch:
+* [ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)
+* [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+* [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+* [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+* [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
+* [Jest Testing Framework](https://jestjs.io/)
 
-What ES6 is
-New features introduced in ES6
-The difference between a constant and a variable
-Block-scoped variables
-Arrow functions and function parameters default to them
-Rest and spread function parameters
-String templating in ES6
-Object creation and their properties in ES6
-Iterators and for-of loops
-Requirements
-General
-All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-Allowed editors: vi, vim, emacs, Visual Studio Code
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the js extension
-Your code will be tested using the Jest Testing Framework
-Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
-All of your functions must be exported
-# Setup
-Install NodeJS 12.11.x
-(in your home directory):
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2012/04/feynman-technique/), without the help of Google:
+### General
+* What ES6 is
+* New features introduced in ES6
+* The difference between a constant and a variable
+* Block-scoped variables
+* Arrow functions and function parameters default to them
+* Rest and spread function parameters
+* String templating in ES6
+* Object creation and their properties in ES6
+* Iterators and for-of loops
 
-curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
-sudo bash nodesource_setup.sh
-sudo apt install nodejs -y
-$ nodejs -v
-v12.11.1
-$ npm -v
-6.11.3
-Install Jest, Babel, and ESLint
-in your project directory:
+## Requirements
+* A ```README.md``` file.
 
-Install Jest using: npm install --save-dev jest
-Install Babel using: npm install --save-dev babel-jest @babel/core @babel/preset-env
-Install ESLint using: npm install --save-dev eslint
+## Tasks
+* [x] 0. Const or let?
+* [x] 1. Block Scope
+* [x] 2. Arrow functions
+* [x] 3. Parameter defaults
+* [x] 4. Rest parameter syntax for functions
+* [x] 5. The wonders of spread syntax
+* [x] 6. Take advantage of template literals
+* [x] 7. Object property value shorthand syntax
+* [x] 8. No need to create empty objects before adding in properties
+* [x] 9. ES6 method properties
+* [x] 10. For...of Loops
+* [x] 11. Iterator
+* [x] 12. Let's create a report object
+* [ ] 13. Iterating through report objects
+* [ ] 14. Iterate through object
+
+## Software engineer
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)
