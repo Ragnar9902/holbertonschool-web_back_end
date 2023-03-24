@@ -53,5 +53,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 14. Iterate through object
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Jesus Manuel Macias  
+:octocat: [GitHub](https://github.com/Ragnar9902/)
